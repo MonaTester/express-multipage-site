@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "My First Blog Post",
+    "content": "This is my first blog post using Express and JSON data.",
+    "author": "MonaTester",
+    "date": "2026-02-16"
+  },
+  {
+    "id": 2,
+    "title": "Learning Express",
+    "content": "Express makes building web applications simple and organized.",
+    "author": "MonaTester",
+    "date": "2026-02-16"
+  }
+]
